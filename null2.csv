@@ -1,0 +1,15 @@
+﻿Age,Income,Student,Credit_rating,Buys_Computer,Serial_no.
+Youth,high,No,Fair,No,133
+youth,high,No,,No,342
+Middle_age,high,No,Fair,Yes,62
+senior,medium,No,Fair,Yes,3646
+senior,low,,Fair,Yes,546754
+senior,low,Yes,Excellent,No,753
+Middle_age,low,Yes,,Yes,84
+,,Yes,,,
+Youth,low,Yes,Fair,Yes,7
+senior,medium,Yes,Fair,Yes,
+Youth,medium,Yes,Excellent,Yes,5467
+Middle_age,,No,Excellent,Yes,
+Middle_age,high,Yes,Fair,Yes,754
+senior,medium,No,Excellent,No,
